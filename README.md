@@ -48,9 +48,28 @@ You’ll be prompted to enter:
 
 The app will then suggest meals, display sides, list ingredients, and estimate quantities.
 
-🧠 Code Overview
-welcome()
-Displays a friendly greeting in Somali and English to introduce the user.
+
+
+## 🧠 Code Overview
+
+- **`welcome()`**: Displays a friendly greeting in Somali and English to introduce the user to the Somali Meal Prep Planner.
+
+### 📸 Screenshots
+
+#### Welcome Screen
+![Welcome](screenshots.png)
+
+When the program is run, it first greets the user in both Somali and English, making it culturally engaging. The user is then prompted to enter basic information such as:
+1. How many people they are cooking for (e.g., 1).
+2. How many days they want to plan for (e.g., 1).
+3. Their dietary preferences, specifically whether they eat meat (e.g., yes).
+
+Based on the user input, the program suggests appropriate Somali dishes and ingredients to prepare.
+
+
+
+
+
 
 get_number_input(prompt, min_val, max_val)
 Safely receives user input for a number between specified values. Repeats until valid.
