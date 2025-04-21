@@ -29,9 +29,7 @@ Coming soon — or run it locally using the steps below!
    python --version
 
 
-Clone this repository:
-git clone https://github.com/YOUR_USERNAME/somali-meal-prep-planner.git
-cd somali-meal-prep-planner
+
 
 Run the program:
 
