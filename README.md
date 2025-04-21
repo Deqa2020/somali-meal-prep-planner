@@ -1,6 +1,6 @@
 
  
-# 🇸🇴 Somali Meal Prep Planner 🥘
+# Somali Meal Prep Planner 🥘
 
 A simple and culturally thoughtful Python CLI (Command Line Interface) app that helps users plan traditional Somali meals for multiple people over multiple days. This tool includes meat and vegetarian meal options, traditional sides, a basic shopping list, and calculated ingredient estimates.
 
